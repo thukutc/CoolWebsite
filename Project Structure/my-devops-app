@@ -1,0 +1,7 @@
+my-devops-app/
+│
+├── app.js
+├── package.json
+├── Dockerfile
+├── .gitignore
+└── README.md
